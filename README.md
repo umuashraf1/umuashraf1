@@ -1,21 +1,20 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Ganiyat Olagoke Adebayo</h1>
 <p align="center">
-<strong>Aspiring Cloud Engineer • Software Developer • DevOps Enthusiast</strong>
+<strong>Aspiring Cloud Engineer • Data Engineer • DevOps Enthusiast</strong>
 </p>
 <p align="center">
-Welcome to my GitHub profile! I'm passionate about learning new technologies,
-building real-world projects, and continuously improving my technical skills.
+Welcome to my GitHub profile! With over two decades of professional experience and a growing passion for Cloud Computing, DevOps, Data Analysis and Data Engineering, I enjoy transforming ideas into practical solutions. This profile showcases my projects, certifications, and hands-on journey toward becoming a skilled Cloud and DevOps Engineer.
 </p>
 ---
-- 🔭 I'm currently working on **Project Name**
-- 🌱 I'm currently learning **Technology**
-- 🤝 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Programming, Cloud, Linux, or DevOps**
-- 🎯 My goal is to become a **Cloud & DevOps Engineer**
-- 📫 Reach me at **your-email@example.com**
+-  I'm currently working on **real-world DevOps and Cloud projects to strengthen my engineering skills**
+-  I'm learning **AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, and Linux Administration**
+-  I'm excited to collaborate on **Cloud, DevOps, Automation, and Open Source initiatives**
+-  Ask me about **Python, Docker, Linux, SQL, Cloud Computing, Data Engineering, and DevOps**
+-  My mission is to build reliable cloud infrastructure and automate deployments using modern DevOps practices**
+-  Reach me at **your-ganiyatprofessional@outlook.com**
 ---
 <p align="center">
-<a href="https://github.com/yourusername">
+<a href="https://github.com/umuashraf1">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 <a href="https://linkedin.com/in/yourusername">
