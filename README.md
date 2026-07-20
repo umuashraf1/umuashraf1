@@ -1,80 +1,118 @@
 <h1 align="center">Hi 👋, I'm Ganiyat Olagoke Adebayo</h1>
+
 <p align="center">
 <strong>Aspiring Cloud Engineer • Data Engineer • DevOps Enthusiast</strong>
 </p>
+
 <p align="center">
-Welcome to my GitHub profile! With over two decades of professional experience and a growing passion for Cloud Computing, DevOps, Data Analysis and Data Engineering, I enjoy transforming ideas into practical solutions. This profile showcases my projects, certifications, and hands-on journey toward becoming a skilled Cloud and DevOps Engineer.
+Welcome to my GitHub profile! With over two decades of professional experience and a growing passion for Cloud Computing, DevOps, Data Analysis, and Data Engineering, I enjoy transforming ideas into practical solutions. This profile showcases my projects, certifications, and hands-on journey toward becoming a skilled Cloud and DevOps Engineer.
 </p>
+
 ---
--  I'm currently working on **real-world DevOps and Cloud projects to strengthen my engineering skills**
--  I'm learning **AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, and Linux Administration**
--  I'm excited to collaborate on **Cloud, DevOps, Automation, and Open Source initiatives**
--  Ask me about **Python, Docker, Linux, SQL, Cloud Computing, Data Engineering, and DevOps**
--  My mission is to build reliable cloud infrastructure and automate deployments using modern DevOps practices**
--  Reach me at **your-ganiyatprofessional@outlook.com**
+
+## 👨‍💻 About Me
+
+- 🔭 I'm currently building **real-world Cloud and DevOps projects** to strengthen my engineering skills.
+- 🌱 I'm learning **AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, and Linux Administration.**
+- 🤝 I'm excited to collaborate on **Cloud, DevOps, Automation, and Open Source initiatives.**
+- 💬 Ask me about **Python, Docker, Linux, SQL, Cloud Computing, Data Engineering, and DevOps.**
+- 🎯 My mission is to build reliable cloud infrastructure and automate deployments using modern DevOps practices.
+- 📫 Reach me at **ganiyatprofessional@outlook.com**
+
 ---
+
+## 🌐 Connect With Me
+
 <p align="center">
 <a href="https://github.com/umuashraf1">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
-<a href="https://linkedin.com/in/yourusername">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-<a href="https://twitter.com/yourusername">
+
+<a href="https://x.com/YOUR-X-USERNAME">
 <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
 </a>
 </p>
+
 ---
+
+## 🛠️ Technologies & Tools
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,git,github,linux,vscode,docker,aws" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,linux,python,git,github,vscode,postgres,mysql,nodejs" />
 </p>
+
 ---
-A short description of your first project.
-**Repository:** https://github.com/yourusername/project-one
+
+## 🚀 Featured Projects
+
+### 🐳 Docker Compose Lab
+
+Learn how to deploy and manage containers using Docker Compose with hands-on examples.
+
+**Repository:** https://github.com/umuashraf1/docker-compose-lab
+
+### 🌐 WordPress with Docker Compose
+
+Deploy a production-ready WordPress and MySQL stack using Docker Compose with persistent volumes.
+
+**Repository:** https://github.com/umuashraf1/docker-compose-wordpress-lab
+
+### ☁️ Azure Cloud Labs
+
+A collection of Microsoft Azure hands-on labs covering networking, storage, virtual machines, monitoring, and security.
+
+**Repository:** https://github.com/umuashraf1
+
 ---
-A short description of your second project.
-**Repository:** https://github.com/yourusername/project-two
----
-A short description of your third project.
-**Repository:** https://github.com/yourusername/project-three
----
-> Add your completed certifications below as you earn them.
+
+## 🏆 Certifications
+
 | Certification | Issuing Organization | Date | Credential |
 |---------------|----------------------|------|------------|
-| Microsoft Azure Fundamentals (AZ-900) | Microsoft | Jan 2026 | [View Credential](#) |
-| AWS Cloud Practitioner | AWS | Feb 2026 | [View Credential](#) |
-| Google Cloud Digital Leader | Google | Mar 2026 | [View Credential](#) |
-| Kubernetes and Cloud Native Associate (KCNA) | CNCF | Apr 2026 | [View Credential](#) |
-| *(Add more here)* | | | |
+| Microsoft Applied Skills – Secure storage for Azure Files and Azure Blob Storage | Microsoft | Nov 2025 | *(Add Link)* |
+| Microsoft Applied Skills – Accelerate AI-assisted development by using GitHub Copilot | Microsoft | 2025 | *(Add Link)* |
+| Microsoft Azure Fundamentals (AZ-900) | Microsoft | *In Progress* | |
+| AWS Certified Cloud Practitioner | AWS | *Planned* | |
+| Kubernetes and Cloud Native Associate (KCNA) | CNCF | *Planned* | |
+
 ---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-<!-- Add badge images here -->
-<img src="images/az900.png" width="120"/>
-<img src="images/aws-cloud-practitioner.png" width="120"/>
-<img src="images/kcna.png" width="120"/>
-<img src="images/google-cloud.png" width="120"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=umuashraf1&show_icons=true&theme=default"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umuashraf1&layout=compact&theme=default"/>
 </p>
+
 ---
+
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default"/>
+<img src="https://streak-stats.demolab.com?user=umuashraf1"/>
 </p>
+
 ---
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=yourusername"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=umuashraf1&theme=github-compact"/>
 </p>
+
 ---
+
+## 🎯 2026 Goals
+
+- ✅ Build 20+ real-world Cloud and DevOps projects
+- ✅ Master Docker, Kubernetes, and Terraform
+- ✅ Earn Azure, AWS, and Kubernetes certifications
+- ✅ Contribute to Open Source projects
+- ✅ Strengthen Linux and Cloud Engineering skills
+- ✅ Land a Cloud & DevOps Engineering role
+
+---
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact"/>
-</p>
----
-- ✅ Build 10 real-world cloud projects
-- ✅ Contribute to Open Source
-- ✅ Earn Cloud Certifications
-- ✅ Learn Kubernetes
-- ✅ Improve Linux Skills
-- ✅ Land a Cloud Engineering Role
----
-<p align="center">
-⭐ Thank you for visiting my profile! ⭐
+⭐ <strong>Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.</strong> ⭐
 </p>
