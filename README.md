@@ -1,118 +1,92 @@
-<h1 align="center">Hi 👋, I'm Ganiyat Olagoke Adebayo</h1>
+# Hi, I'm Ganiyat Adebayo 👋
 
-<p align="center">
-<strong>Aspiring Cloud Engineer • Data Engineer • DevOps Enthusiast</strong>
-</p>
+### Cloud Engineering | DevOps | Data Engineering
 
-<p align="center">
-Welcome to my GitHub profile! With over two decades of professional experience and a growing passion for Cloud Computing, DevOps, Data Analysis, and Data Engineering, I enjoy transforming ideas into practical solutions. This profile showcases my projects, certifications, and hands-on journey toward becoming a skilled Cloud and DevOps Engineer.
-</p>
+I'm building practical skills in Cloud Engineering and DevOps, with a strong interest in automation, containerization, cloud infrastructure, and secure deployment practices. I document my learning journey through hands-on projects, technical labs, and real-world problem-solving exercises.
+
+My goal is to build reliable, scalable, and maintainable technology solutions while continuously improving my engineering skills.
 
 ---
 
-## 👨‍💻 About Me
+## ☁️ Cloud Engineering & DevOps
 
-- 🔭 I'm currently building **real-world Cloud and DevOps projects** to strengthen my engineering skills.
-- 🌱 I'm learning **AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, and Linux Administration.**
-- 🤝 I'm excited to collaborate on **Cloud, DevOps, Automation, and Open Source initiatives.**
-- 💬 Ask me about **Python, Docker, Linux, SQL, Cloud Computing, Data Engineering, and DevOps.**
-- 🎯 My mission is to build reliable cloud infrastructure and automate deployments using modern DevOps practices.
-- 📫 Reach me at **ganiyatprofessional@outlook.com**
+- Cloud infrastructure fundamentals and security
+- Linux command-line operations
+- Docker and containerization
+- Docker Compose and multi-container applications
+- Kubernetes and YAML configuration
+- Git and GitHub version control
+- Automation and deployment workflows
 
----
+## 🗄️ Data Engineering & Analytics
 
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://github.com/umuashraf1">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://x.com/YOUR-X-USERNAME">
-<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
-</a>
-</p>
-
----
+- Python programming
+- SQL and relational databases
+- PostgreSQL and MySQL
+- Data cleaning and transformation
+- ETL concepts and data pipeline development
+- Data analysis and business intelligence
 
 ## 🛠️ Technologies & Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,linux,python,git,github,vscode,postgres,mysql,nodejs" />
-</p>
+**Cloud:** Microsoft Azure, aws
+
+**DevOps:** Docker, Docker Compose, Git, GitHub, Linux
+
+**Data Engineering:** Python, SQL, PostgreSQL, MySQL
+
+**Analytics:** Power BI, Microsoft Excel, SQL, Tableau, Python
+
+**Development:** YAML, Visual Studio Code
+
+*This list reflects my learning and project interests; individual repositories document the tools used in each project.*
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🐳 Docker Compose Lab
+### Kubernetes YAML Architect
+Exploring Kubernetes resource definitions and YAML configuration as part of my cloud-native and DevOps learning journey.
 
-Learn how to deploy and manage containers using Docker Compose with hands-on examples.
+[Explore Repository](https://github.com/umuashraf1/Kubernetes-YAML-Architect)
 
-**Repository:** https://github.com/umuashraf1/docker-compose-lab
+### HR Analytics Database Project
+A PostgreSQL project focused on database design, data preparation, SQL queries, and HR analytics.
 
-### 🌐 WordPress with Docker Compose
+[Explore Repository](https://github.com/umuashraf1/HR-ANALYTICS-DATABASE-PROJECT)
 
-Deploy a production-ready WordPress and MySQL stack using Docker Compose with persistent volumes.
+### Data Engineering Bootcamp Portfolio
+A collection of data engineering learning projects and business-focused data solutions.
 
-**Repository:** https://github.com/umuashraf1/docker-compose-wordpress-lab
-
-### ☁️ Azure Cloud Labs
-
-A collection of Microsoft Azure hands-on labs covering networking, storage, virtual machines, monitoring, and security.
-
-**Repository:** https://github.com/umuashraf1
+[Explore Repository](https://github.com/umuashraf1/Data-Engineering-Bootcamp-Portfolio)
 
 ---
 
-## 🏆 Certifications
+## 📚 Current Learning Focus
 
-| Certification | Issuing Organization | Date | Credential |
-|---------------|----------------------|------|------------|
-| Microsoft Applied Skills – Secure storage for Azure Files and Azure Blob Storage | Microsoft | Nov 2025 | *(Add Link)* |
-| Microsoft Applied Skills – Accelerate AI-assisted development by using GitHub Copilot | Microsoft | 2025 | *(Add Link)* |
-| Microsoft Azure Fundamentals (AZ-900) | Microsoft | *In Progress* | |
-| AWS Certified Cloud Practitioner | AWS | *Planned* | |
-| Kubernetes and Cloud Native Associate (KCNA) | CNCF | *Planned* | |
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=umuashraf1&show_icons=true&theme=default"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umuashraf1&layout=compact&theme=default"/>
-</p>
+- Strengthening Linux and cloud infrastructure fundamentals
+- Building and managing Docker containers
+- Practising Kubernetes configuration and deployment concepts
+- Improving automation and CI/CD workflows
+- Developing secure and reproducible cloud environments
+- Building practical data engineering pipelines
 
 ---
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=umuashraf1"/>
-</p>
+## 🎯 My Approach
+
+I believe in learning by building, documenting what I learn, solving problems systematically, and improving through practical experience.
+
+Each project is an opportunity to strengthen my technical skills, develop good engineering habits, and create solutions that address real problems.
 
 ---
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umuashraf1&theme=github-compact"/>
-</p>
+## 🤝 Let's Connect
+
+- **GitHub:** [@umuashraf1](https://github.com/umuashraf1)
+
+I'm open to connecting with technology professionals, collaborating on learning projects, and exploring opportunities in Cloud Engineering, DevOps, and Data Engineering.
 
 ---
 
-## 🎯 2026 Goals
-
-- ✅ Build 20+ real-world Cloud and DevOps projects
-- ✅ Master Docker, Kubernetes, and Terraform
-- ✅ Earn Azure, AWS, and Kubernetes certifications
-- ✅ Contribute to Open Source projects
-- ✅ Strengthen Linux and Cloud Engineering skills
-- ✅ Land a Cloud & DevOps Engineering role
-
----
-
-<p align="center">
-⭐ <strong>Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.</strong> ⭐
-</p>
+*Learning by building. Improving through practice. Engineering with purpose.*
